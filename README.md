@@ -1,31 +1,28 @@
 <div align="center">
 
+<!-- HERO -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050505,35:111827,65:312e81,100:06b6d4&text=LITHANYA%20R&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=COMPUTER%20SCIENCE%20STUDENT%20%20%7C%20%20DEVELOPER%20%20%7C%20%20BUILDER&descAlignY=60&descSize=17&descColor=67e8f9&animation=twinkling"/>
+
 <br>
 
-<a href="https://github.com/LithanyaRamesh">
-<img src="https://img.shields.io/badge/✦_LITHANYA_R-0D1117?style=for-the-badge&labelColor=0D1117&color=161B22"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&duration=2600&pause=700&color=67E8F9&center=true&vCenter=true&width=750&height=55&lines=BUILDING+DIGITAL+EXPERIENCES+%E2%9C%A6;TURNING+IDEAS+INTO+REAL+PROJECTS;EXPLORING+FULL-STACK+DEVELOPMENT;LEARNING+%E2%80%A2+BUILDING+%E2%80%A2+EVOLVING" />
 
 <br><br>
 
-# 👩🏻‍💻 LITHANYA R
-
-### Computer Science Student · Developer · Problem Solver
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&height=45&lines=Welcome+to+my+digital+workspace+%E2%9C%A8;Building+ideas+into+real+applications;Exploring+Full-Stack+Development;Learning+%7C+Building+%7C+Improving" />
-
-<br>
-
-<img src="https://img.shields.io/badge/●_AVAILABLE_TO_BUILD-101820?style=flat-square&labelColor=101820&color=238636"/>
+<img src="https://img.shields.io/badge/✦_CURRENTLY_BUILDING-050505?style=for-the-badge&labelColor=050505&color=06b6d4"/>
+<img src="https://img.shields.io/badge/⚡_OPEN_TO_LEARN-050505?style=for-the-badge&labelColor=050505&color=8b5cf6"/>
+<img src="https://img.shields.io/badge/🚀_HACKATHON_BUILDER-050505?style=for-the-badge&labelColor=050505&color=ec4899"/>
 
 <br><br>
 
-<a href="#-about-me">ABOUT</a>
-  •   <a href="#-projects">PROJECTS</a>
-  •   <a href="#-tech-stack">TECH STACK</a>
-  •   <a href="#-github-analytics">GITHUB</a>
+<a href="#about">ABOUT</a>
+&nbsp;&nbsp; ✦ &nbsp;&nbsp;
+<a href="#projects">PROJECTS</a>
+&nbsp;&nbsp; ✦ &nbsp;&nbsp;
+<a href="#stack">STACK</a>
+&nbsp;&nbsp; ✦ &nbsp;&nbsp;
+<a href="#activity">ACTIVITY</a>
 
 <br><br>
 
@@ -33,60 +30,73 @@
 
 ---
 
+<a name="about"></a>
+
 <div align="center">
 
-## ✦ ABOUT ME
+# ✦ ABOUT ME
 
-### `Turning ideas into interfaces, interfaces into applications.`
+### `A CS student turning curiosity into code.`
 
 </div>
+
+<br>
 
 <table>
 <tr>
-<td width="60%" valign="top">
 
-### Hello! I'm Lithanya 👋
+<td width="55%" valign="top">
 
-I'm a **Computer Science student** passionate about creating software that solves practical problems.
+## 👋 Hey, I'm Lithanya
 
-Right now, I'm focused on **Web Development** and gradually moving deeper into **Full-Stack Development**.
+I'm a **Computer Science student** passionate about building practical software and exploring how modern applications work.
 
-I enjoy participating in hackathons, building college projects, experimenting with new technologies, and learning by actually creating things.
+I enjoy taking an idea from:
+
+**💡 Concept → 🎨 Interface → ⚙️ Logic → 🚀 Working Product**
+
+Currently, my main focus is **Web Development**, while exploring the world of **Full-Stack Development**.
 
 <br>
 
-🔹 **Focus** → Web & Software Development
-🔹 **Learning** → Full-Stack Development
-🔹 **Interested in** → DSA · APIs · Databases · Open Source
-🔹 **Approach** → Build first, learn through the process
+### ✦ What I enjoy
+
+🌐 Building web interfaces  
+🧩 Solving programming problems  
+🚀 Participating in hackathons  
+🔧 Debugging & improving projects  
+🤝 Exploring open-source development  
 
 </td>
 
-<td width="40%" align="center">
+<td width="45%" align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,git,github,vscode&perline=4" />
+<img src="https://github-readme-stats.vercel.app/api?username=LithanyaRamesh&show_icons=true&hide_border=true&bg_color=050505&title_color=67E8F9&icon_color=8B5CF6&text_color=E5E7EB&ring_color=06B6D4&count_private=true" width="100%"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/BUILDING-58A6FF?style=for-the-badge&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/LEARNING-161B22?style=for-the-badge&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/EXPLORING-161B22?style=for-the-badge&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=LithanyaRamesh&style=for-the-badge&color=06b6d4&label=PROFILE+VISITS"/>
 
 </td>
+
 </tr>
 </table>
 
+<br>
+
 ---
+
+<a name="projects"></a>
 
 <div align="center">
 
-## 🚀 PROJECTS
+# 🚀 FEATURED PROJECTS
 
-### Things I've built, explored and experimented with.
+### `A few things I've built`
 
 </div>
+
+<br>
 
 <table>
 <tr>
@@ -95,33 +105,29 @@ I enjoy participating in hackathons, building college projects, experimenting wi
 
 <div align="center">
 
-### 🧠 CODE CORTEX 3.0
-
-<img src="https://img.shields.io/badge/HACKATHON-58A6FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/WEB-DEVELOPMENT-161B22?style=flat-square"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=100&color=0:111827,100:312e81&text=CODE%20CORTEX&fontSize=30&fontColor=67e8f9&fontAlignY=52"/>
 
 </div>
 
-<br>
+### 🧠 Code Cortex 3.0
 
-A hackathon project focused on transforming a real-world problem into a practical software solution.
-
-**What it represents**
-
-* 💡 Problem-focused development
-* 🌐 Web application concepts
-* 🧩 Technical problem solving
-* 🚀 Hackathon experience
+A **hackathon project** focused on converting a real-world problem into a practical software solution.
 
 <br>
 
-<div align="center">
+**FOCUS**
+
+`Problem Solving`  
+`Web Development`  
+`Hackathon`
+
+<br>
 
 <a href="https://github.com/LithanyaRamesh/Code-Cortex-3.0-Hackathon">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
-</div>
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
 
 </td>
 
@@ -129,34 +135,135 @@ A hackathon project focused on transforming a real-world problem into a practica
 
 <div align="center">
 
-### 🏥 NEXSUS
-
-<img src="https://img.shields.io/badge/HEALTHCARE-58A6FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/PYTHON-161B22?style=flat-square"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=100&color=0:111827,100:4c1d95&text=NEXSUS&fontSize=34&fontColor=c4b5fd&fontAlignY=52"/>
 
 </div>
 
-<br>
+### 🏥 Nexsus
 
-A **Patient Intake Triage Assistant** designed to structure patient descriptions, collect missing information and apply rule-based triage logic.
-
-**Core concepts**
-
-* 📝 Patient information intake
-* ❓ Follow-up questions
-* ⚙️ Rule-based reasoning
-* 🚨 Urgency-based triage
-* 🧠 Human escalation for uncertainty
+A **Patient Intake Triage Assistant** designed to collect patient information and apply rule-based triage logic.
 
 <br>
 
-<div align="center">
+**FOCUS**
+
+`Healthcare`  
+`Python`  
+`Rule Engine`
+
+<br>
 
 <a href="https://github.com/LithanyaRamesh/Nexsus-project">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/MORE_PROJECTS_COMING_SOON-111827?style=for-the-badge&logo=rocket&logoColor=67e8f9"/>
+
 </div>
+
+---
+
+<a name="stack"></a>
+
+<div align="center">
+
+# ⚡ TECHNOLOGY UNIVERSE
+
+### `Tools I use to turn ideas into applications`
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,mysql,git,github,vscode&theme=dark&perline=11"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/JAVA-111827?style=for-the-badge&logo=openjdk&logoColor=67e8f9"/>
+<img src="https://img.shields.io/badge/PYTHON-111827?style=for-the-badge&logo=python&logoColor=67e8f9"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-111827?style=for-the-badge&logo=javascript&logoColor=67e8f9"/>
+<img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=67e8f9"/>
+<img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=67e8f9"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/REACT-111827?style=for-the-badge&logo=react&logoColor=8b5cf6"/>
+<img src="https://img.shields.io/badge/NODE.JS-111827?style=for-the-badge&logo=node.js&logoColor=8b5cf6"/>
+<img src="https://img.shields.io/badge/MYSQL-111827?style=for-the-badge&logo=mysql&logoColor=8b5cf6"/>
+<img src="https://img.shields.io/badge/GIT-111827?style=for-the-badge&logo=git&logoColor=8b5cf6"/>
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=8b5cf6"/>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+# 🧩 WHAT I'M EXPLORING
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+## 🌐
+
+### FRONTEND
+
+Modern interfaces  
+Responsive layouts  
+Interactive UX
+
+</td>
+
+<td align="center" width="25%">
+
+## ⚙️
+
+### BACKEND
+
+APIs  
+Server logic  
+Application flow
+
+</td>
+
+<td align="center" width="25%">
+
+## 🗄️
+
+### DATABASE
+
+SQL  
+Data management  
+Integration
+
+</td>
+
+<td align="center" width="25%">
+
+## 🧠
+
+### DSA
+
+Algorithms  
+Problem solving  
+Logic
 
 </td>
 
@@ -167,115 +274,75 @@ A **Patient Intake Triage Assistant** designed to structure patient descriptions
 
 <div align="center">
 
-## ⚡ TECH STACK
-
-### Technologies I use while building.
+# 🌌 DEVELOPER JOURNEY
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,mysql,git,github,vscode&perline=11" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/JAVA-0D1117?style=for-the-badge&logo=openjdk&logoColor=58A6FF"/>
-<img src="https://img.shields.io/badge/PYTHON-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF"/>
-<img src="https://img.shields.io/badge/JAVASCRIPT-0D1117?style=for-the-badge&logo=javascript&logoColor=58A6FF"/>
-<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=58A6FF"/>
-<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=58A6FF"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/REACT-0D1117?style=for-the-badge&logo=react&logoColor=58A6FF"/>
-<img src="https://img.shields.io/badge/NODE.JS-0D1117?style=for-the-badge&logo=node.js&logoColor=58A6FF"/>
-<img src="https://img.shields.io/badge/MYSQL-0D1117?style=for-the-badge&logo=mysql&logoColor=58A6FF"/>
-<img src="https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=58A6FF"/>
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🌱 CURRENTLY EXPLORING
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=130&text=LEARN%20%E2%86%92%20BUILD%20%E2%86%92%20BREAK%20%E2%86%92%20DEBUG%20%E2%86%92%20IMPROVE&fontSize=24&fontColor=67e8f9&fontAlignY=55"/>
 
 </div>
 
 <table>
 <tr>
-<td align="center" width="20%">
 
-### 🌐
+<td width="33%" align="center">
 
-**FRONTEND**
+### 01
 
-Modern UI
-Responsive Design
+## 💡 LEARN
 
-</td>
-
-<td align="center" width="20%">
-
-### ⚙️
-
-**BACKEND**
-
-APIs
-Server Logic
+Understand the technology.
 
 </td>
 
-<td align="center" width="20%">
+<td width="33%" align="center">
 
-### 🗄️
+### 02
 
-**DATABASE**
+## 🛠️ BUILD
 
-SQL
-Data Management
-
-</td>
-
-<td align="center" width="20%">
-
-### 🧩
-
-**DSA**
-
-Algorithms
-Problem Solving
+Turn knowledge into projects.
 
 </td>
 
-<td align="center" width="20%">
+<td width="33%" align="center">
 
-### 🔗
+### 03
 
-**FULL-STACK**
+## 🚀 SHIP
 
-Frontend
-
-* Backend
+Make it actually work.
 
 </td>
+
 </tr>
 </table>
 
 ---
 
+<a name="activity"></a>
+
 <div align="center">
 
-## 📊 GITHUB ANALYTICS
+# 📊 GITHUB ACTIVITY
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=LithanyaRamesh&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=LithanyaRamesh&show_icons=true&count_private=true&hide_border=true&bg_color=050505&title_color=67E8F9&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" width="49%"/>
 
-<img src="https://streak-stats.demolab.com/?user=LithanyaRamesh&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=LithanyaRamesh&hide_border=true&background=050505&ring=06B6D4&fire=EC4899&currStreakLabel=67E8F9&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" width="49%"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LithanyaRamesh&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="38%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LithanyaRamesh&layout=compact&langs_count=8&hide_border=true&bg_color=050505&title_color=67E8F9&text_color=C9D1D9" width="40%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LithanyaRamesh&bg_color=050505&color=67E8F9&line=8B5CF6&point=FFFFFF&area=true&area_color=111827&hide_border=true&custom_title=LITHANYA%27S%20CODING%20ACTIVITY" width="96%"/>
 
 </div>
 
@@ -283,77 +350,90 @@ Frontend
 
 <div align="center">
 
-## 💫 DEVELOPMENT ACTIVITY
+# 🎯 CURRENT DIRECTION
 
 <br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LithanyaRamesh&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=161B22&hide_border=true&custom_title=MY%20CODING%20ACTIVITY" width="95%"/>
-
-</div>
-
----
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
-## 🎯 WHAT'S NEXT
+<td align="center">
 
-```text
-Frontend
-   ↓
-React
-   ↓
-Backend
-   ↓
-APIs
-   ↓
-Databases
-   ↓
-Full-Stack
-```
+### `01`
+
+🌐  
+**Frontend**
 
 </td>
 
-<td width="50%" valign="top">
+<td>→</td>
 
-## 💭 MY APPROACH
+<td align="center">
 
-> Learn something.
+### `02`
 
-> Build something.
-
-> Break something.
-
-> Fix something.
-
-> Make it better.
+⚛️  
+**React**
 
 </td>
+
+<td>→</td>
+
+<td align="center">
+
+### `03`
+
+⚙️  
+**Backend**
+
+</td>
+
+<td>→</td>
+
+<td align="center">
+
+### `04`
+
+🗄️  
+**Database**
+
+</td>
+
+<td>→</td>
+
+<td align="center">
+
+### `05`
+
+🚀  
+**Full-Stack**
+
+</td>
+
 </tr>
 </table>
+
+</div>
 
 ---
 
 <div align="center">
 
-## ✨ LET'S BUILD SOMETHING
-
 <br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=17&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&height=40&lines=Thanks+for+visiting+my+profile+%E2%9C%A8;More+projects+are+being+built...;See+you+in+the+next+commit+%F0%9F%9A%80" />
+
+<br><br>
 
 <a href="https://github.com/LithanyaRamesh">
 
-<img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/✦_EXPLORE_MY_GITHUB-111827?style=for-the-badge&logo=github&logoColor=67e8f9"/>
 
 </a>
 
 <br><br>
 
-`CODE`   `CREATE`   `LEARN`   `IMPROVE`
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:161B22,100:0D1117&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,35:312E81,70:111827,100:050505&height=150&section=footer&animation=twinkling" width="100%"/>
 
 </div>
 
