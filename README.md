@@ -1,126 +1,78 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1a0533,75:6e40c9,100:a78bfa&height=230&section=header&text=LITHANYA%20R&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Developer%20%7C%20Builder&descAlignY=60&descSize=18&descColor=c4b5fd&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=3&section=header" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&height=55&lines=Building+ideas+into+working+software;Exploring+Full-Stack+Development;Learning+by+building+real+projects;Code+%7C+Learn+%7C+Build+%7C+Repeat" />
+# `LITHANYA R`
+
+### `COMPUTER SCIENCE STUDENT · DEVELOPER · BUILDER`
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=720&height=40&lines=%3E+building+ideas+into+software;>+learning+full-stack+development;>+solving+problems+with+code;>+shipping+projects%2C+not+just+tutorials" />
 
 <br><br>
 
-<a href="https://github.com/LithanyaRamesh">
-<img src="https://img.shields.io/badge/GitHub-LithanyaRamesh-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=LithanyaRamesh&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS"/>
+`[ WEB DEVELOPMENT ]`   `[ PROBLEM SOLVING ]`   `[ HACKATHONS ]`
 
 <br><br>
-
-> `Turning curiosity into code, and code into real-world solutions.`
 
 </div>
 
 ---
-
-## `01` — About Me
-
-```javascript
-const lithanya = {
-    identity: "Computer Science Student",
-    
-    focus: [
-        "Web Development",
-        "Full-Stack Development",
-        "Problem Solving"
-    ],
-
-    languages: [
-        "Java",
-        "JavaScript",
-        "Python",
-        "HTML",
-        "CSS"
-    ],
-
-    tools: [
-        "Git",
-        "GitHub",
-        "VS Code"
-    ],
-
-    currentlyExploring: [
-        "React",
-        "Backend Development",
-        "Databases",
-        "APIs"
-    ],
-
-    mindset: "Learn → Build → Break → Fix → Improve"
-};
-```
-
-### What I Do
-
-* 💻 Build **web applications and software projects**
-* 🚀 Participate in **hackathons and technical projects**
-* 🧠 Practice **Data Structures & Algorithms**
-* 🌐 Explore **Full-Stack Development**
-* 🔧 Learn by building and debugging real applications
-* 🤝 Interested in **open-source and collaborative development**
-
----
-
-## `02` — Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark"/>
-
-<br><br>
-
-### Development & Tools
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,mysql,git,github,vscode&theme=dark"/>
-
-</div>
-
----
-
-## `03` — Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="58%" valign="top">
 
-### 🧠 Code Cortex 3.0
+## `whoami`
 
-A technical project developed as part of a hackathon environment, focused on solving a practical problem through software.
+Hi, I'm **Lithanya** 👋
 
-**Focus**
+A Computer Science student interested in building real-world software and learning how modern applications work from **frontend to backend**.
 
-`Problem Solving` · `Web Development` · `Hackathon`
+I learn by doing — taking an idea, turning it into a project, breaking things, debugging them, and improving the result.
 
-<a href="https://github.com/LithanyaRamesh/Code-Cortex-3.0-Hackathon">
-<img src="https://img.shields.io/badge/View%20Project-6e40c9?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+```text
+FOCUS
+────────────────────────────
+Web Development
+Full-Stack Development
+Problem Solving
+Hackathons
+Open Source
+
+CURRENT MODE
+────────────────────────────
+LEARN → BUILD → DEBUG → SHIP
+```
 
 </td>
 
-<td width="50%">
+<td width="42%" valign="top">
 
-### 🏥 Nexsus
-
-A healthcare-focused **Patient Intake Triage Assistant** designed to structure patient information and support rule-based triage workflows.
-
-**Focus**
-
-`Healthcare` · `Python` · `Web App` · `Rule Engine`
-
-<a href="https://github.com/LithanyaRamesh/Nexsus-project">
-<img src="https://img.shields.io/badge/View%20Project-6e40c9?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+```text
+┌─────────────────────────┐
+│   DEVELOPER PROFILE     │
+├─────────────────────────┤
+│                         │
+│  role                   │
+│  └─ CS Student          │
+│                         │
+│  focus                  │
+│  ├─ Web Development     │
+│  ├─ Software            │
+│  └─ Problem Solving     │
+│                         │
+│  status                 │
+│  └─ Building...         │
+│                         │
+│  next                   │
+│  └─ Full-Stack          │
+│                         │
+└─────────────────────────┘
+```
 
 </td>
 </tr>
@@ -128,85 +80,238 @@ A healthcare-focused **Patient Intake Triage Assistant** designed to structure p
 
 ---
 
-## `04` — Currently Learning
+## `01 — STACK`
 
 <div align="center">
 
-| Area | What I'm Exploring                                       |
-| :--: | :------------------------------------------------------- |
-|  🌐  | **Frontend Development** — React & modern UI             |
-|  ⚙️  | **Backend Development** — APIs & server-side logic       |
-|  🗄️ | **Databases** — SQL & data management                    |
-|  🧩  | **DSA** — Problem solving & algorithms                   |
-|  🔗  | **Full-Stack** — Connecting frontend, backend & database |
-|  🤝  | **Open Source** — Git, GitHub & collaboration            |
-
-</div>
-
----
-
-## `05` — GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=LithanyaRamesh&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=6e40c9&text_color=c9d1d9&rank_icon=github" width="49%"/>
-
-<img src="https://streak-stats.demolab.com/?user=LithanyaRamesh&hide_border=true&background=0d1117&ring=6e40c9&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" width="49%"/>
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,mysql,git,github,vscode&perline=11" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LithanyaRamesh&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="42%"/>
+`JAVA` · `PYTHON` · `JAVASCRIPT` · `HTML` · `CSS` · `REACT` · `NODE.JS` · `MYSQL` · `GIT`
 
 </div>
 
 ---
 
-## `06` — Contribution Graph
+## `02 — CURRENTLY BUILDING`
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LithanyaRamesh&bg_color=0d1117&color=a78bfa&line=6e40c9&point=ffffff&area=true&area_color=1a0533&hide_border=true&custom_title=Lithanya%27s%20Contribution%20Graph" width="95%"/>
-
-</div>
+```text
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│  WEB                                                          │
+│  ├── Building responsive interfaces                           │
+│  ├── Understanding frontend architecture                      │
+│  └── Exploring modern web development                         │
+│                                                              │
+│  BACKEND                                                       │
+│  ├── Learning APIs                                            │
+│  ├── Understanding server-side logic                          │
+│  └── Exploring database integration                           │
+│                                                              │
+│  PROBLEM SOLVING                                               │
+│  ├── Data Structures & Algorithms                             │
+│  └── Algorithmic thinking                                    │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+```
 
 ---
 
-## `07` — Developer Mindset
+## `03 — PROJECTS`
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### `01 / CODE CORTEX`
+
+**Hackathon Project**
+
+A software project developed in a hackathon environment, focused on converting a real-world problem into a practical technical solution.
+
+`HACKATHON` `WEB` `PROBLEM SOLVING`
+
+<br>
+
+<a href="https://github.com/LithanyaRamesh/Code-Cortex-3.0-Hackathon">
+<img src="https://img.shields.io/badge/OPEN%20REPOSITORY-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### `02 / NEXSUS`
+
+**Healthcare Software**
+
+A Patient Intake Triage Assistant that structures patient descriptions, collects missing information and applies rule-based triage logic.
+
+`HEALTHCARE` `PYTHON` `RULE ENGINE`
+
+<br>
+
+<a href="https://github.com/LithanyaRamesh/Nexsus-project">
+<img src="https://img.shields.io/badge/OPEN%20REPOSITORY-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## `04 — ENGINEERING MINDSET`
 
 <div align="center">
 
 ```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│   Learn something new.                       │
-│   Build something useful.                    │
-│   Break something.                           │
-│   Understand why.                            │
-│   Fix it better.                             │
-│   Repeat.                                    │
-│                                              │
-└──────────────────────────────────────────────┘
+                 ┌──────────────┐
+                 │     IDEA     │
+                 └──────┬───────┘
+                        │
+                        ▼
+                 ┌──────────────┐
+                 │    BUILD     │
+                 └──────┬───────┘
+                        │
+                        ▼
+                 ┌──────────────┐
+                 │    BREAK     │
+                 └──────┬───────┘
+                        │
+                        ▼
+                 ┌──────────────┐
+                 │    DEBUG     │
+                 └──────┬───────┘
+                        │
+                        ▼
+                 ┌──────────────┐
+                 │   IMPROVE    │
+                 └──────┬───────┘
+                        │
+                        ▼
+                 ┌──────────────┐
+                 │     SHIP     │
+                 └──────────────┘
+                        │
+                        └──────────↺
 ```
 
-### `while(alive) { learn(); build(); improve(); }`
+### `I don't just want to learn code. I want to build with it.`
 
 </div>
 
 ---
 
+## `05 — LEARNING PATH`
+
+<table>
+<tr>
+<td align="center">🌐<br><b>FRONTEND</b><br><sub>Building</sub></td>
+<td align="center">⚙️<br><b>BACKEND</b><br><sub>Exploring</sub></td>
+<td align="center">🗄️<br><b>DATABASES</b><br><sub>Learning</sub></td>
+<td align="center">🧩<br><b>DSA</b><br><sub>Practicing</sub></td>
+<td align="center">🔗<br><b>FULL-STACK</b><br><sub>Next</sub></td>
+</tr>
+</table>
+
+---
+
+## `06 — GITHUB TELEMETRY`
+
 <div align="center">
 
-### Let's Build Something 🚀
+<img src="https://github-readme-stats.vercel.app/api?username=LithanyaRamesh&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" width="49%"/>
 
-<a href="https://github.com/LithanyaRamesh">
-<img src="https://img.shields.io/badge/Explore%20My%20GitHub-6e40c9?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://streak-stats.demolab.com/?user=LithanyaRamesh&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" width="49%"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,50:6e40c9,100:0d1117&height=130&section=footer&animation=twinkling" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LithanyaRamesh&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="40%"/>
 
 </div>
+
+---
+
+## `07 — CONTRIBUTION MATRIX`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LithanyaRamesh&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=161B22&hide_border=true&custom_title=LITHANYA%27S%20DEVELOPMENT%20ACTIVITY" width="96%"/>
+
+</div>
+
+---
+
+## `08 — ROADMAP`
+
+```text
+                 ┌──────────────────────┐
+                 │     CURRENT STATE    │
+                 └──────────┬───────────┘
+                            │
+              ┌─────────────┼─────────────┐
+              ▼             ▼             ▼
+         FRONTEND        PYTHON         DSA
+              │             │             │
+              └─────────────┼─────────────┘
+                            ▼
+                       ┌─────────┐
+                       │  REACT  │
+                       └────┬────┘
+                            ▼
+                       ┌─────────┐
+                       │ BACKEND │
+                       └────┬────┘
+                            ▼
+                       ┌─────────┐
+                       │   API   │
+                       └────┬────┘
+                            ▼
+                       ┌─────────┐
+                       │DATABASE │
+                       └────┬────┘
+                            ▼
+                  ┌──────────────────┐
+                  │   FULL-STACK     │
+                  │    DEVELOPER     │
+                  └──────────────────┘
+```
+
+---
+
+<div align="center">
+
+<br>
+
+```text
+> system.status
+
+[ ONLINE ]
+
+> mission
+
+BUILD USEFUL THINGS.
+
+> next_action
+
+KEEP LEARNING.
+```
+
+<br>
+
+### `BUILD · LEARN · DEBUG · REPEAT`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:161B22,100:0D1117&height=120&section=footer" width="100%"/>
+
+</div>
+
 
 
 
