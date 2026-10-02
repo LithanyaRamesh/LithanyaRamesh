@@ -1,62 +1,89 @@
-<!-- Header Banner / Dynamic Typing SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9333EA&center=true&vCenter=true&width=600&lines=Computer+Science+%26+Engineering+Student;AI+%26+Full-Stack+Developer;Building+Smart+%26+Scalable+Applications" alt="Typing SVG" />
+
+  <!-- Floating Animated Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333ea,50:c084fc,100:3b82f6&height=200&section=header&text=Lithanya%20Ramesh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+
+  <!-- Animated Subtitle -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Frontend+%26+Full-Stack+Developer;Computer+Science+Engineer;Crafting+Modern+%26+Responsive+UIs" alt="Typing SVG" />
+  </a>
+
 </div>
 
 <br />
 
-<!-- Header Graphic Card -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=180&section=header&text=Welcome%20To%20My%20Profile!&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%" />
-</p>
+<!-- Dual Column Card Section -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="60%" valign="top">
 
-## ◈ About Me
+### ⚡ About Me
 
-I am a **Computer Science and Engineering Student** at **V.S.B. Engineering College, Karur**. I focus on building practical, high-impact software combining **AI intelligence** and **full-stack technologies**.
+I am a **Computer Science Student** at **V.S.B. Engineering College, Karur**. I specialize in crafting clean, accessible, and high-performance web applications.
 
-* 💻 **Currently Focused On:** Deepening Java DSA & building full-stack web applications.
-* 🧠 **Exploring AI:** Integrating LLMs (Groq Llama, Gemini) and AI intelligence into web platforms.
-* 🎯 **Goal:** Writing efficient, scalable, and maintainable code to solve real-world problems[cite: 1].
+* 🎨 **Frontend Engineering:** Focus on modern web design, seamless user experience, and responsiveness.
+* ⚙️ **Core Fundamentals:** Building strong problem-solving skills with Java DSA & full-stack development.
+* 🤖 **AI Integration:** Combining modern UI frameworks with AI APIs like Groq & Gemini.
+
+    </td>
+    <td width="40%" align="center" valign="middle">
+
+<!-- Right Side Developer Graphic -->
+<img src="https://cdni.iconscout.com/illustration/premium/thumb/web-development-illustration-download-in-svg-png-gif-file-formats--technology-developer-coding-programmer-software-pack-design-illustrations-3758309.png?f=webp&w=400" width="85%" alt="Developer Illustration" />
+
+    </td>
+  </tr>
+</table>
+
+<br />
 
 ---
 
-## ⚡ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
-  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /></a>
-  <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" /></a>
-  <a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" /></a>
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Projects Spotlight
+
+<div align="center">
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 📚 **StudyTrack AI** | AI-powered adaptive learning and skill-gap analysis platform with personalized quiz generation. | `React` `Flask` `SQLite` `Groq/Gemini AI` |
-| 📦 **StockSight AI** | Retail sales and inventory intelligence system powered by machine learning algorithms. | `React` `Python` `AI` |
-| 🧬 **SkillGenome AI** | AI-based skill and career intelligence platform mapping developer skill paths. | `React` `TypeScript` `AI` |
+| 🌐 **[Desktop Notifier App](https://github.com/LithanyaRamesh/Desktop-Notifier-App)** | Automated desktop reminder & notification utility. | `Python` `OS API` |
+| 📦 **[3D Convertor](https://github.com/LithanyaRamesh/3D-CONVERTOR)** | Interactive 3D object rendering & file conversion tool. | `JavaScript` `3D WebGL` |
+| ⚡ **[Dayflow HRMS](https://github.com/LithanyaRamesh/dayflow-hrms-)** | Modern Human Resource Management web platform. | `JavaScript` `React` |
+
+</div>
 
 ---
 
-## 📊 GitHub Analytics
+### 📊 GitHub Activity & Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RR-Priyadharshini&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RR-Priyadharshini&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RR-Priyadharshini&theme=tokyonight&hide_border=true" width="98%" alt="GitHub Streak" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=LithanyaRamesh&show_icons=true&theme=dracula&hide_border=true&title_color=c084fc&icon_color=c084fc" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LithanyaRamesh&layout=compact&theme=dracula&hide_border=true&title_color=c084fc" width="48%" />
 
----
+  <br /><br />
 
-<p align="center">
-  <i>"build() · learn() · create()"</i>
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LithanyaRamesh&theme=dracula&hide_border=true&stroke=c084fc" width="98%" />
+
+</div>
+
+<br />
+
+<div align="center">
+  <sub>Designed with 💜 by <a href="https://github.com/LithanyaRamesh">Lithanya Ramesh</a></sub>
+</div>
