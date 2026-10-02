@@ -1,15 +1,19 @@
 <div align="center">
 
-  <!-- Futuristic Cyber Terminal Greeting -->
+  <!-- Fixed Permanent Header -->
+  <h1>⚡ LITHANYA</h1>
+  <p><b>Computer Science Engineer • Aspiring Full-Stack Architect • Problem Solver</b></p>
+
+  <!-- Animated Real-time Typing (Directly Below Fixed Name) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&pause=1000&color=00F2FE&center=true&vCenter=true&random=false&width=650&lines=%E2%96%B6+SYSTEM_INIT%3A+LITHANYA+RAMESH;%E2%96%B6+FULL-STACK+DEVELOPER+%E2%9A%A1;%E2%96%B6+CS+ENGINEER+%40+V.S.B.+COLLEGE;%E2%96%B6+BUILDING+HACKATHON+SOLUTIONS;%E2%96%B6+PASSIONATE+ABOUT+ALGORITHMS+%26+UI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&random=false&width=600&lines=%E2%96%B6+B.E.+Computer+Science+%40+V.S.B.+Eng+College;%E2%96%B6+Building+Real-World+Web+Solutions+%E2%9A%A1;%E2%96%B6+Frontend+%E2%9E%94+Backend+%E2%9E%94+Databases+%E2%9E%94+Full-Stack;%E2%96%B6+Passionate+About+Hackathons+%26+Algorithms" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <code>🚀 Turning Complex Computational Logic into High-Impact User Experiences</code>
+    <code>🚀 "Not just learning technologies, learning how to engineer them."</code>
   </p>
 
-  <!-- Quick Action HUD -->
+  <!-- Quick Action HUD Badges -->
   <p align="center">
     <a href="https://linkedin.com/in/lithanya-ramesh-9099bb395" target="_blank">
       <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -18,18 +22,11 @@
       <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://github.com/LithanyaRamesh?tab=repositories">
-      <img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/REPOSITORIES-8_PUBLIC-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
     </a>
     <img src="https://komarev.com/ghpvc/?username=LithanyaRamesh&style=for-the-badge&color=00f2fe&label=PROFILE+VISITS" />
   </p>
 
-</div>
-
----
-
-### 🏆 GitHub Achievement Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LithanyaRamesh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="Trophies" />
 </div>
 
 ---
@@ -151,5 +148,4 @@
 │  FRONTEND CORE  │ ───> │  REACT.JS & UI  │ ───> │  BACKEND & API  │ ───> │    DATABASES    │ ───> │ FULL-STACK ENG  │
 │   [ COMPLETED ] │      │ [ IN PROGRESS ] │      │  [ NEXT SPRINT] │      │  [ SCHEDULED ]  │      │  [ FINAL GOAL ] │
 └─────────────────┘      └─────────────────┘      └─────────────────┘      └─────────────────┘      └─────────────────┘
-
 
