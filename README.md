@@ -1,187 +1,146 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,50:17102e,100:ff0080&height=230&section=header&text=LITHANYA&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Web%20Developer%20%7C%20Problem%20Solver&descAlignY=62&descSize=17&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,25&height=180&section=header"/>
 
-<br>
-
-# ✦ FUTURISTIC WEB EXPERIENCES ✦
-
-# Hi, I'm <span style="color:#ff0080;">Lithanya</span> 👋
+# 👋 Hi, I'm **Lithanya**
 
 ### Computer Science Student • Web Developer • Problem Solver
 
-<br>
+<p>
+  <a href="#about-me">About</a> •
+  <a href="#skills">Skills</a> •
+  <a href="#projects">Projects</a> •
+  <a href="#journey">Journey</a> •
+  <a href="#contact">Contact</a>
+</p>
+
+</div>
+
+---
+
+<a name="about-me"></a>
+
+# 🌸 About Me
+
+<table>
+<tr>
+
+<td width="58%" valign="top">
+
+## Hey there! 👋
+
+I'm **Lithanya**, a Computer Science student at **V.S.B. Engineering College, Karur**, passionate about building useful and practical software solutions.
+
+I'm currently exploring the complete journey of application development — starting from **Frontend**, moving towards **React, Backend, APIs and Databases**, and eventually becoming a **Full-Stack Developer**.
+
+I enjoy participating in **hackathons**, working on college projects, solving programming problems, and learning how different technologies work together.
+
+### 💡 What I Focus On
+
+🚀 **Web Development**
+
+I enjoy creating websites and applications that are clean, useful and user-friendly.
+
+🏆 **Hackathons**
+
+I like turning ideas into working prototypes and solving real-world problems through technology.
+
+🧠 **Problem Solving**
+
+I continuously work on improving my logical thinking and programming skills through DSA and coding.
+
+### ✨ My Philosophy
 
 > **"Not just learning technologies, learning how to use them."**
 
+</td>
+
+<td width="42%" align="center">
+
+<img src="https://illustrations.popsy.co/amber/digital-nomad.svg" width="100%"/>
+
 <br>
 
-<a href="#-selected-work">
-<img src="https://img.shields.io/badge/🚀%20VIEW%20PROJECTS-ff0080?style=for-the-badge&labelColor=050510"/>
-</a>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,mysql,git,github&perline=3"/>
 
-&nbsp;
+</td>
 
-<a href="https://github.com/LithanyaRamesh">
-<img src="https://img.shields.io/badge/GITHUB-11111f?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+</tr>
+</table>
 
 ---
 
-<div align="center">
+<a name="skills"></a>
 
-## 👩‍💻 ABOUT ME
-
-</div>
-
-<p align="center">
-I'm a Computer Science student at <b>V.S.B. Engineering College, Karur</b>,
-interested in building practical software solutions and continuously improving
-my development skills.
-</p>
-
-<p align="center">
-My current journey is moving from
-<b>Frontend → Backend → Database → Full-Stack</b>,
-while exploring hackathons, problem solving and open source.
-</p>
-
-<br>
+# 🛠️ My Tech Universe
 
 <div align="center">
 
-| 🎯 Focus | 🚀 Current Direction | 📚 Learning |
-|---|---|---|
-| Web Development | Frontend → Backend | React |
-| Hackathons | Backend → Database | Backend |
-| Problem Solving | Database → Full-Stack | Databases |
-| College Projects | Full-Stack Development | Open Source |
+### 🌐 Frontend
 
-</div>
-
----
-
-<div align="center">
-
-## 🛠️ TOOLBOX
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,react,mysql,git,github,vscode&perline=10"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite"/>
 
 <br><br>
 
-### 🌐 WEB
+### 🧠 Programming & Problem Solving
 
-HTML • CSS • JavaScript
+<img src="https://skillicons.dev/icons?i=java,python"/>
 
-### 🧠 DSA
+<br><br>
 
-Java • Python • Problem Solving
+### 🗄️ Backend & Database — Currently Exploring
 
-### 🚀 BUILD
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb"/>
 
-Hackathons • College Projects • Web Applications
+<br><br>
 
-### 🔗 NEXT
+### 🔧 Tools & Development
 
-React • Backend • APIs • Databases
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 SELECTED WORK
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
 </div>
 
-### 🏥 Nexsus
-
-**Patient Intake Triage Assistant**
-
-A healthcare-focused application that structures patient descriptions, asks follow-up questions and applies rule-based triage logic.
-
-**Tech:** `Python` `Rule Engine` `Healthcare`
-
 ---
 
-### 🧩 Code Cortex 3.0
-
-**Hackathon Project**
-
-A practical software solution developed as part of a hackathon, focused on solving a real-world problem through technology.
-
-**Tech:** `HTML` `Hackathon` `Problem Solving`
-
----
-
-### 🏢 Dayflow HRMS
-
-**Human Resource Management System**
-
-A web-based HR management application designed to handle employee-related workflows and HR operations.
-
-**Tech:** `JavaScript` `Web Development`
-
----
-
-### 🧊 3D Convertor
-
-**3D Conversion Tool**
-
-A web-based project focused on converting and working with 3D-related content.
-
-**Tech:** `JavaScript` `Web`
-
----
-
-### 🔔 Desktop Notifier App
-
-**Desktop Notification Application**
-
-A Python-based desktop application designed to provide notification functionality.
-
-**Tech:** `Python` `Desktop Application`
-
----
-
-### 🌐 ScotX
-
-**Web Project**
-
-A web development project focused on creating a functional and user-friendly web experience.
-
-**Tech:** `HTML` `CSS` `JavaScript`
-
----
+# ⚡ My Development Direction
 
 <div align="center">
-
-## 🧭 MY DEVELOPER ROADMAP
-
-<br>
 
 ```text
-        FRONTEND
-           │
-           ▼
-         REACT
-           │
-           ▼
-        BACKEND
-           │
-           ▼
-          APIs
-           │
-           ▼
-       DATABASE
-           │
-           ▼
-       FULL-STACK
+                    MY JOURNEY
+
+                       💻
+                       │
+                       ▼
+                 ┌───────────┐
+                 │ FRONTEND  │
+                 └─────┬─────┘
+                       │
+                       ▼
+                 ┌───────────┐
+                 │   REACT   │
+                 └─────┬─────┘
+                       │
+                       ▼
+                 ┌───────────┐
+                 │  BACKEND  │
+                 └─────┬─────┘
+                       │
+                       ▼
+                 ┌───────────┐
+                 │   APIs    │
+                 └─────┬─────┘
+                       │
+                       ▼
+                 ┌───────────┐
+                 │ DATABASE  │
+                 └─────┬─────┘
+                       │
+                       ▼
+                 ┌───────────┐
+                 │FULL-STACK │
+                 └───────────┘
+                       🎯
 
 
 
