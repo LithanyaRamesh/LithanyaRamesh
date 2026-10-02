@@ -1,102 +1,187 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=LITHANYA%20R&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Frontend%20Developer&descAlignY=58&descSize=18" width="100%"/>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+digital+things+%F0%9F%9A%80;Simple+ideas+%E2%86%92+interactive+products;Frontend+%E2%86%92+Backend+%E2%86%92+Database+%E2%86%92+Full-Stack;Hackathon+builder+%7C+Problem+solver" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,50:17102e,100:ff0080&height=230&section=header&text=LITHANYA&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Web%20Developer%20%7C%20Problem%20Solver&descAlignY=62&descSize=17&animation=fadeIn"/>
 
-<br/>
+<br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=LithanyaRamesh&label=Profile%20Views&color=0e75b6&style=flat-square)
-![Followers](https://img.shields.io/github/followers/LithanyaRamesh?style=flat-square&color=blueviolet)
+# ✦ FUTURISTIC WEB EXPERIENCES ✦
 
-**V.S.B. Engineering College, Karur**
+# Hi, I'm <span style="color:#ff0080;">Lithanya</span> 👋
+
+### Computer Science Student • Web Developer • Problem Solver
+
+<br>
+
+> **"Not just learning technologies, learning how to use them."**
+
+<br>
+
+<a href="#-selected-work">
+<img src="https://img.shields.io/badge/🚀%20VIEW%20PROJECTS-ff0080?style=for-the-badge&labelColor=050510"/>
+</a>
+
+&nbsp;
+
+<a href="https://github.com/LithanyaRamesh">
+<img src="https://img.shields.io/badge/GITHUB-11111f?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 👩🏻‍💻 About Me
-
-```js
-const lithanya = {
-  role: "Computer Science Student",
-  college: "V.S.B. Engineering College, Karur",
-  focus: ["Web Development", "Hackathons", "Problem Solving"],
-  currentDirection: "Frontend → Backend → Database → Full-Stack",
-  learning: ["React", "Backend", "Databases", "Open Source"],
-  motto: "Not just learning technologies, learning how to use them.",
-};
-```
-
-I like taking a simple idea and turning it into something people can actually interact with.
-
----
-
-## 🛠️ Toolbox
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,react,git,github,vscode&perline=9" />
+## 👩‍💻 ABOUT ME
 
 </div>
 
-| 🌐 WEB | 🧠 DSA | 🚀 BUILD | 🔗 NEXT |
-|---|---|---|---|
-| HTML, CSS, JavaScript | Java, Python | Hackathons, College Projects | React, Backend, Databases |
+<p align="center">
+I'm a Computer Science student at <b>V.S.B. Engineering College, Karur</b>,
+interested in building practical software solutions and continuously improving
+my development skills.
+</p>
 
----
+<p align="center">
+My current journey is moving from
+<b>Frontend → Backend → Database → Full-Stack</b>,
+while exploring hackathons, problem solving and open source.
+</p>
 
-## 🚀 Selected Work
+<br>
 
-| Project | What it does | Tech |
+<div align="center">
+
+| 🎯 Focus | 🚀 Current Direction | 📚 Learning |
 |---|---|---|
-| 🏥 [**Nexsus**](https://github.com/LithanyaRamesh/Nexsus-project) | Patient intake triage assistant. Structures patient descriptions, asks follow-up questions and applies rule-based triage logic. | `Python` `Rule Engine` |
-| 🧩 [**Code Cortex 3.0**](https://github.com/LithanyaRamesh/Code-Cortex-3.0-Hackathon) | Hackathon project solving a practical problem through software. | `HTML` `Hackathon` |
-| 🏢 [**Dayflow HRMS**](https://github.com/LithanyaRamesh/dayflow-hrms-) | HR management web app. | `JavaScript` |
-| 🧊 [**3D Convertor**](https://github.com/LithanyaRamesh/3D-CONVERTOR) | 3D conversion tool. | `JavaScript` |
-| 🔔 [**Desktop Notifier App**](https://github.com/LithanyaRamesh/Desktop-Notifier-App) | Desktop notification app. | `Python` |
-| 🌐 [**ScotX**](https://github.com/LithanyaRamesh/ScotX) | Web project. | `Web` |
-
-> 💡 Each project ku live demo link / screenshot add pannina profile innum strong ah irukum.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=LithanyaRamesh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=LithanyaRamesh&theme=tokyonight&hide_border=true&background=0d1117" />
-
-<br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LithanyaRamesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+| Web Development | Frontend → Backend | React |
+| Hackathons | Backend → Database | Backend |
+| Problem Solving | Database → Full-Stack | Databases |
+| College Projects | Full-Stack Development | Open Source |
 
 </div>
 
 ---
 
-## 🧭 Roadmap
+<div align="center">
+
+## 🛠️ TOOLBOX
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,react,mysql,git,github,vscode&perline=10"/>
+
+<br><br>
+
+### 🌐 WEB
+
+HTML • CSS • JavaScript
+
+### 🧠 DSA
+
+Java • Python • Problem Solving
+
+### 🚀 BUILD
+
+Hackathons • College Projects • Web Applications
+
+### 🔗 NEXT
+
+React • Backend • APIs • Databases
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 SELECTED WORK
+
+</div>
+
+### 🏥 Nexsus
+
+**Patient Intake Triage Assistant**
+
+A healthcare-focused application that structures patient descriptions, asks follow-up questions and applies rule-based triage logic.
+
+**Tech:** `Python` `Rule Engine` `Healthcare`
+
+---
+
+### 🧩 Code Cortex 3.0
+
+**Hackathon Project**
+
+A practical software solution developed as part of a hackathon, focused on solving a real-world problem through technology.
+
+**Tech:** `HTML` `Hackathon` `Problem Solving`
+
+---
+
+### 🏢 Dayflow HRMS
+
+**Human Resource Management System**
+
+A web-based HR management application designed to handle employee-related workflows and HR operations.
+
+**Tech:** `JavaScript` `Web Development`
+
+---
+
+### 🧊 3D Convertor
+
+**3D Conversion Tool**
+
+A web-based project focused on converting and working with 3D-related content.
+
+**Tech:** `JavaScript` `Web`
+
+---
+
+### 🔔 Desktop Notifier App
+
+**Desktop Notification Application**
+
+A Python-based desktop application designed to provide notification functionality.
+
+**Tech:** `Python` `Desktop Application`
+
+---
+
+### 🌐 ScotX
+
+**Web Project**
+
+A web development project focused on creating a functional and user-friendly web experience.
+
+**Tech:** `HTML` `CSS` `JavaScript`
+
+---
+
+<div align="center">
+
+## 🧭 MY DEVELOPER ROADMAP
+
+<br>
 
 ```text
-FRONTEND  →  REACT  →  BACKEND  →  APIs  →  DATABASE  →  FULL-STACK
-   ✅          🔄         ⏳         ⏳         ⏳            🎯
-```
-
-**📚 Currently learning:** Full-Stack Development · DSA · Open Source
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lithanya-ramesh-9099bb395)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LithanyaRamesh)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%"/>
+        FRONTEND
+           │
+           ▼
+         REACT
+           │
+           ▼
+        BACKEND
+           │
+           ▼
+          APIs
+           │
+           ▼
+       DATABASE
+           │
+           ▼
+       FULL-STACK
 
 
 
