@@ -1,146 +1,62 @@
+<a name="about-me"></a>
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,25&height=180&section=header"/>
-
-# 👋 Hi, I'm **Lithanya**
-
-### Computer Science Student • Web Developer • Problem Solver
-
-<p>
-  <a href="#about-me">About</a> •
-  <a href="#skills">Skills</a> •
-  <a href="#projects">Projects</a> •
-  <a href="#journey">Journey</a> •
-  <a href="#contact">Contact</a>
-</p>
-
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-db036e00-a425-11eb-85fc-25969a2723a3.png" width="100%" height="2px" />
 </div>
 
----
+<br />
 
-<a name="about-me"></a>
+<!-- Advanced About Me Card Layout -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <!-- Left Column: Detailed Bio & Core Tech Stack -->
+    <td width="60%" valign="top" style="border: none;">
+      <h2>🚀 About Me</h2>
+      <p>
+        I am a passionate <b>Computer Science Student</b> at <b>V.S.B. Engineering College, Karur</b> and an aspiring <b>Web Developer & Problem Solver</b>. I focus on crafting highly responsive, user-centric web applications and delivering seamless digital experiences.
+      </p>
+      <p>
+        💡 <b>What I Do:</b>
+        <ul>
+          <li><b>Frontend Engineering:</b> Building modern UI/UX with clean architecture.</li>
+          <li><b>Problem Solving:</b> Continuous learner interested in scalable distribution systems and algorithms.</li>
+          <li><b>Maintainable Code:</b> Writing clean, reusable, and accessible code across all screen sizes.</li>
+        </ul>
+      </p>
 
-# 🌸 About Me
+      <br />
 
-<table>
-<tr>
+      <h3>🛠️ Tech Stack & Tools</h3>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      </p>
+    </td>
 
-<td width="58%" valign="top">
-
-## Hey there! 👋
-
-I'm **Lithanya**, a Computer Science student at **V.S.B. Engineering College, Karur**, passionate about building useful and practical software solutions.
-
-I'm currently exploring the complete journey of application development — starting from **Frontend**, moving towards **React, Backend, APIs and Databases**, and eventually becoming a **Full-Stack Developer**.
-
-I enjoy participating in **hackathons**, working on college projects, solving programming problems, and learning how different technologies work together.
-
-### 💡 What I Focus On
-
-🚀 **Web Development**
-
-I enjoy creating websites and applications that are clean, useful and user-friendly.
-
-🏆 **Hackathons**
-
-I like turning ideas into working prototypes and solving real-world problems through technology.
-
-🧠 **Problem Solving**
-
-I continuously work on improving my logical thinking and programming skills through DSA and coding.
-
-### ✨ My Philosophy
-
-> **"Not just learning technologies, learning how to use them."**
-
-</td>
-
-<td width="42%" align="center">
-
-<img src="https://illustrations.popsy.co/amber/digital-nomad.svg" width="100%"/>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,mysql,git,github&perline=3"/>
-
-</td>
-
-</tr>
+    <!-- Right Column: Animated Developer Illustration / Stats Card -->
+    <td width="40%" align="center" valign="middle" style="border: none;">
+      <img src="https://cdni.iconscout.com/illustration/premium/thumb/web-development-illustration-download-in-svg-png-gif-file-formats--technology-developer-coding-programmer-software-pack-design-illustrations-3758309.png?f=webp&w=600" width="100%" alt="Developer Illustration" />
+    </td>
+  </tr>
 </table>
 
----
+<br />
 
-<a name="skills"></a>
-
-# 🛠️ My Tech Universe
-
+<!-- GitHub Stats & Quick Overview Cards -->
 <div align="center">
-
-### 🌐 Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite"/>
-
-<br><br>
-
-### 🧠 Programming & Problem Solving
-
-<img src="https://skillicons.dev/icons?i=java,python"/>
-
-<br><br>
-
-### 🗄️ Backend & Database — Currently Exploring
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb"/>
-
-<br><br>
-
-### 🔧 Tools & Development
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=LithanyaRamesh&show_icons=true&theme=radial&hide_border=true&title_color=7000ff&icon_color=7000ff" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LithanyaRamesh&layout=compact&theme=radial&hide_border=true&title_color=7000ff" width="48%" alt="Top Languages" />
 </div>
 
----
-
-# ⚡ My Development Direction
+<br />
 
 <div align="center">
-
-```text
-                    MY JOURNEY
-
-                       💻
-                       │
-                       ▼
-                 ┌───────────┐
-                 │ FRONTEND  │
-                 └─────┬─────┘
-                       │
-                       ▼
-                 ┌───────────┐
-                 │   REACT   │
-                 └─────┬─────┘
-                       │
-                       ▼
-                 ┌───────────┐
-                 │  BACKEND  │
-                 └─────┬─────┘
-                       │
-                       ▼
-                 ┌───────────┐
-                 │   APIs    │
-                 └─────┬─────┘
-                       │
-                       ▼
-                 ┌───────────┐
-                 │ DATABASE  │
-                 └─────┬─────┘
-                       │
-                       ▼
-                 ┌───────────┐
-                 │FULL-STACK │
-                 └───────────┘
-                       🎯
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-db036e00-a425-11eb-85fc-25969a2723a3.png" width="100%" height="2px" />
+</div>
 
 
 
